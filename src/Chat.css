@@ -64,7 +64,7 @@
   background-repeat: repeat;
   background-position: center;
   padding: 30px;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 
 .chat__footer {
@@ -84,7 +84,7 @@
   flex: 1;
   border-radius: 30px;
   padding: 10px;
-  padding-left: 10px;
+  padding-left: 15px;
   border: none;
   outline: none;
 }
